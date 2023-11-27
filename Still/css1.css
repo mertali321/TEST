@@ -1,0 +1,155 @@
+
+body {
+
+	align-items: center;
+	background-color: rgb(243, 249, 255);
+	
+}
+.container-fluid{
+ align-items: center;
+ border: 0px;
+ margin: 0px;
+ display: flex;	
+}
+.list-group
+{
+	margin-top:5%;
+	
+}
+.list-group-item
+{
+ font-family: 'Lobster', cursive;
+font-family: 'Playfair Display', serif;	
+margin: 0%;
+background-color: #d3d3d3;
+}
+.card
+{
+	border: 0px;
+	margin-left: auto; 
+	margin-right: auto;
+	text-align: center;
+	display: flex;
+	border-radius: 0px;
+	width: 100%;
+	padding-top: 2%;
+	background-color: #d3d3d3;
+	padding-bottom: 2%;
+	
+
+}
+.card-img-top
+{
+	margin-top: 2%;
+	border-radius: 5%;
+	width: 100%;
+	
+}
+.card2
+{
+	background-color: #db4c4c;
+	
+	
+	
+}
+.hr1
+{
+	color: white;
+	height: 20px;
+	
+
+	
+}
+.hr
+{
+	color: black;
+	height: 20px;
+}
+.lts2
+{
+	border-width: 0px;
+	background-color: #db4c4c;
+	color: white;
+	
+}
+.lts1
+{
+	border-width: 0px;
+	background-color: #d4d4d4;
+	color: rgb(0, 0, 0);
+}
+hr
+{
+	width: 100%;
+	margin-top: 3%;
+	height: 2vh;
+
+	
+}
+.yazi
+{
+	font-size:4vw;
+	margin-bottom: 1.50%;
+	
+}
+.card-title
+{
+	font-size:5vw
+}
+#resim1
+{
+width: 100%;
+height: auto;
+}
+.buyukresim
+{
+	display: flex;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+	border-radius: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+.single-menu-item
+{
+	display: flex;
+    flex-direction: column;
+    
+    width: 100%;
+}
+.menu-item-header
+{
+	
+    justify-content: space-between;
+}
+.btn
+{
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	
+}
+.navbar-brand
+{
+	margin-left: 90%;
+	background-color: #ffffff;
+}
+.container-fluid
+{
+	background-color: #db4c4c;
+}
+.menu-item-header
+{
+	display: flex;
+    justify-content: space-between;
+}
+@media screen and (max-width: 9999999px) {
+	.orta_alan {
+   
+		flex-wrap: wrap;
+		}
+   }
